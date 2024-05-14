@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Imagem do projeto" src="./projeto-star-movie.png" width="100%">
+  <img alt="Imagem do projeto" src="./CAPA---YOURLINK.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
