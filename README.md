@@ -1,31 +1,62 @@
-# React + TypeScript + Vite
+<h1 align="center"> YourLink - Linktree</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<br>
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img alt="Imagem do projeto" src="./projeto-star-movie.png" width="100%">
+</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🚀 Tecnologias
 
-- Configure the top-level `parserOptions` property like this:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- React JS
+- TypeScript
+- Tailwind
+- Axios
+- Git e Github
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# your-link
+## 💻 Projeto
+
+O projeto é uma aplicação desenvolvida em TypeScript utilizando React e com uma interface construída com Tailwind CSS. Inspirado no conceito do Linktree, ele oferece uma solução para centralizar e organizar links para diferentes plataformas de divulgação.
+
+Os principais recursos incluem:
+
+### Cadastro de Links: 
+Os usuários podem cadastrar os links de suas redes sociais, sites pessoais, portfólio, entre outros, em uma interface amigável e intuitiva.
+
+### Personalização:
+É possível personalizar a aparência da página de links com diferentes temas e estilos disponíveis.
+
+### Gerenciamento de Links:
+Os usuários podem editar, adicionar ou remover links conforme necessário, proporcionando flexibilidade na gestão dos seus conteúdos.
+
+### Divulgação Simplificada: 
+A aplicação fornece um link único que redireciona para a página de links personalizada do usuário, facilitando a divulgação em redes sociais, assinaturas de e-mail, etc.
+
+### Responsividade: 
+A interface é responsiva, adaptando-se a diferentes dispositivos e tamanhos de tela.
+
+No geral, o projeto proporciona uma maneira eficiente e elegante de consolidar e compartilhar os diversos links de um usuário, simplificando o processo de divulgação online.
+
+- [Acesse o projeto finalizado, online](https://your-link.vercel.app/)
+
+## 🔖 Layout
+
+Layout desenvolvido por Ravy Carvalho.
+
+
+StarMovie.
+
+
