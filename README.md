@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React JS
 - TypeScript
+- Firebase
 - Tailwind
 - Axios
 - Git e Github
@@ -34,7 +35,7 @@ O projeto é uma aplicação desenvolvida em TypeScript utilizando React e com u
 Os principais recursos incluem:
 
 ### Cadastro de Links: 
-Os usuários podem cadastrar os links de suas redes sociais, sites pessoais, portfólio, entre outros, em uma interface amigável e intuitiva.
+Os usuários podem cadastrar os links de suas redes sociais, sites pessoais, portfólio, entre outros, em uma interface amigável e intuitiva. (Mas no caso desse projeto, só admin poderá criar, no caso o desenvolvedor). 
 
 ### Personalização:
 É possível personalizar a aparência da página de links com diferentes temas e estilos disponíveis.
@@ -57,6 +58,6 @@ No geral, o projeto proporciona uma maneira eficiente e elegante de consolidar e
 Layout desenvolvido por Ravy Carvalho.
 
 
-StarMovie.
+YourLink.
 
 
